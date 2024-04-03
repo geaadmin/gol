@@ -1,0 +1,28 @@
+.header {
+  text-align: center;
+  color: #00695c;
+}
+.header h1 {
+  margin-bottom: 0px;
+}
+
+.actions {
+  text-align: center;
+}
+
+.body .svg-wrapper {
+  display: table;
+  margin: 20px auto;
+  box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15);
+  line-height: 0;
+}
+.body .svg-wrapper svg {
+  cursor: pointer;
+}
+.body .svg-wrapper svg rect {
+  stroke-width: 0.2;
+}
+
+.fb-share-button {
+  margin: 30px;
+}
